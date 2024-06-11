@@ -5,3 +5,12 @@
 .buy-now-button {
     cursor: pointer;
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+cata{
+    text-align: center;
+}
